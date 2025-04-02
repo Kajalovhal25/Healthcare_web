@@ -16,7 +16,8 @@
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://github.com/Kajalovhal25/Healtcare_bary"
+    "homepage": "https://Kajalovhal25.github.io/Healtcare_bary"
+
   },
   "scripts": {
     "start": "react-scripts start",
