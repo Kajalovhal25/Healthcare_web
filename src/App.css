@@ -15,6 +15,9 @@
     flex-direction: column;
     padding-top: 20px;
 }
+#Bars{
+    display: none;
+}
 
 nav {
     display: flex;
@@ -197,6 +200,7 @@ h1{
 .benefits-text p{
     margin-top: -2rem;
     width: 500px;
+    text-wrap: wrap;
 }
 .benefits-info{
     display: flex;
@@ -433,6 +437,109 @@ h1{
 .footer-legal span {
     margin-top: 5px;
 }
-
+@media screen and (max-width: 768px) {
+    nav{
+        display: block;
+    } 
+    .hero-text-container {
+        width: 90%;
+        padding: 15px;
+    }
+    nav ul{
+        display: none;
+    }
+    #Bars{
+        display: block;
+        margin-left: 0;
+        margin-top: -2.1rem;
+        color: white;
+    }
+    .hero-text-heading {
+        font-size: 30px;
+    }
+    #logo{
+        display: flex;
+        height: 50px;
+        justify-content: center;
+        align-items: center;
+        font-weight: 500;
+        font-size: 1.5rem;
+        width: 80vw;
+        padding: auto;
+        margin-left: 2rem;
+    }
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+    .hero-text-container{
+        margin: 80px 10px 10px 20px;
+    }
+    #About{
+        display: block;
+        height: auto;
+        padding: auto;
+    }
+    #contact{
+        display: none;
+    }
+    #About h2{
+        padding: auto;   
+    }
+    .about-text{
+        width: auto;
+    }
+    .Img1{
+        margin: 0 0 0.3rem 0;
+    }
+    .Img2{
+        margin: 0 0 0.3rem 5rem;
+    }
+    .Img3{
+        margin: 0 0 0.3rem 0;   
+    }
+    .services-img{
+        display: block;
+        margin-left: auto;
+    }
+    #services{
+        height: auto;
+    }
+    .services-card{
+        margin-top: 1rem;
+    }
+    #Benefits{
+        height: auto;
+        width: 100%;
+    }
+    .benefits-text p{
+        width: auto;
+    }
+    .benefits-info{
+        display: block;
+    }
+    .Info-card{
+        padding: auto;
+        width: auto;
+        height: auto;
+    }
+    #Icon{
+        width: 50px;
+        height: 50px;
+    }
+    #team{
+        height: auto;
+    }
+    .team-people{
+        display: block;
+        margin: auto;
+    }
+    #testimonials{
+        height: auto;
+    }
+    .contact-container{
+        padding: 0;
+    }
+}
 
 

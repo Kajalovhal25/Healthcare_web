@@ -1,11 +1,15 @@
 import React from 'react'
 import "../App.css"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faBars } from '@fortawesome/free-solid-svg-icons';
+
 
 export default function navbar() {
   return (
     <div id='hero'>
       <nav>
       <h4 id='logo'>Bary Healthcare</h4>
+      <FontAwesomeIcon icon={faBars} id='Bars'/>
         <ul className='nav-list'>
           <li><a href='#About'>About</a></li>
           <li><a href='#services'>Services</a></li>
