@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Healthcare_web/static/css/main.f6765637.css",
+    "main.js": "/Healthcare_web/static/js/main.00ec483c.js",
+    "static/media/national-cancer-institute-701-FJcjLAQ-unsplash.jpg": "/Healthcare_web/static/media/national-cancer-institute-701-FJcjLAQ-unsplash.34b449a89e500415dd40.jpg",
+    "static/media/alexander-hipp-iEEBWgY_6lA-unsplash.jpg": "/Healthcare_web/static/media/alexander-hipp-iEEBWgY_6lA-unsplash.5272eaca014d3e0569b0.jpg",
+    "static/media/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg": "/Healthcare_web/static/media/national-cancer-institute-NFvdKIhxYlU-unsplash.bdace57b279128a9ac6e.jpg",
+    "static/media/roman-kraft-0EVKn3-5JSU-unsplash.jpg": "/Healthcare_web/static/media/roman-kraft-0EVKn3-5JSU-unsplash.bc1c6fa7efc7cb606347.jpg",
+    "static/media/patty-brito-Y-3Dt0us7e0-unsplash.jpg": "/Healthcare_web/static/media/patty-brito-Y-3Dt0us7e0-unsplash.b9dc3554931a5cb04d1a.jpg",
+    "index.html": "/Healthcare_web/index.html",
+    "main.f6765637.css.map": "/Healthcare_web/static/css/main.f6765637.css.map",
+    "main.00ec483c.js.map": "/Healthcare_web/static/js/main.00ec483c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6765637.css",
+    "static/js/main.00ec483c.js"
+  ]
+}
